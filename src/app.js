@@ -72,7 +72,7 @@ app.get("/", (request, response) => {
         <br />
         <center>
             <h1>
-                Hello 👋 from AWS EC2
+                Hello 👋 from Alibaba ECS
             </h1>
         </center>
     `);
